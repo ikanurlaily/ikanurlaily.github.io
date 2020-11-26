@@ -1,7 +1,7 @@
 ---
 layout: article
 title: About Me
-author: Nurvirta Monarizqa
+author: Ika Nur Laily Fitriana
 share: true
 modified: 2020-03-18T14:18:57-04:00
 image:

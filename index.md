@@ -4,7 +4,7 @@ permalink: /
 title: ""
 ---
 
-Hello, my name is Nurvirta Monarizqa, but simply call me Mona. 
+Hello, my name is Ika Nur Laily Fitriana, but simply call me Mona. 
 
 I am a Data Scientist, working for [Microsoft](https://twitter.com/msftsecurity) and currently residing in Bellevue, across the lake from Seattle. An alumna of [Urban Science + Progress, New York University](https://twitter.com/NYU_CUSP)
 
