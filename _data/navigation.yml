@@ -1,0 +1,13 @@
+# Site navigation links
+
+- title: Portofolio
+  url: /portofolio/
+  excerpt: "Things I’ve analyzed, designed, or developed."
+  image: portofolio.PNG
+
+
+- title: GitHub
+  url: http://www.github.com/nmonarizqa
+
+- title: Medium
+  url: http://www.medium.com/@nmonarizqa
