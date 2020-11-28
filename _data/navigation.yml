@@ -1,11 +1,5 @@
 # Site navigation links
 
-- title: Portofolio
-  url: /portofolio/
-  excerpt: "Things I’ve analyzed, designed, or developed."
-  image: portofolio.PNG
-
-
 - title: GitHub
   url: https://github.com/ikanurlaily
 
