@@ -5,7 +5,7 @@ author: Ika Nur Laily Fitriana
 share: true
 modified: 2020-03-18T14:18:57-04:00
 image:
-    feature: head2.jpg
+    feature: head2.PNG
 ---
 
 Hello, my name is Ika Nur Laily Fitriana, but simply call me Ika. 
